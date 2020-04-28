@@ -11,6 +11,7 @@ Installed using 'pip install notebook'
     pip install pandas
     pip install scikit-learn
     pip install seaborn
+	pip install tqdm
 # Step 3: Run the notebooks in the following order
 1) EDA.ipynb
 2) preprocessingBook.ipynb
